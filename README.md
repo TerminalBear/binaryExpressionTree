@@ -6,5 +6,5 @@ All input expressions are valid, fully paranthesized expressions with a single s
 ((0 * (1 + 2)) / (3 - (4  +  5))  *  (6 / 7 / (8 * 9)))  
 (1 - 3 * (4 + 5 * 6) + 7)
 Sample output of first two lines:
-+34  
-**+548  
++34   
+*+548  
